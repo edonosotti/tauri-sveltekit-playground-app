@@ -1,3 +1,7 @@
+![GitHub Workflow (release, master)](https://github.com/edonosotti/tauri-sveltekit-playground-app/actions/workflows/release.yml/badge.svg?branch=master)
+[![Codebeat (master)](https://codebeat.co/badges/b0a6f075-c9e5-4ef2-8ab6-61e3cad007db)](https://codebeat.co/projects/github-com-edonosotti-tauri-sveltekit-playground-app-master)
+[![Code Climate](https://api.codeclimate.com/v1/badges/e01bf36c6a334f9f4f06/maintainability)](https://codeclimate.com/github/edonosotti/tauri-sveltekit-playground-app/maintainability)
+
 # Tauri + SvelteKit + Flowbite UI Kit playground app
 
 A skeleton multi-platform desktop application built with:
