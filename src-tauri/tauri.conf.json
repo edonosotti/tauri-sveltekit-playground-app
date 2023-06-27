@@ -59,7 +59,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "Tauri + SvelteKit App Demo",
+        "title": "Tauri + SvelteKit Playground App",
         "width": 800
       }
     ]
