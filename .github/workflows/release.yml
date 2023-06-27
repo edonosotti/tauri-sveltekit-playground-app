@@ -1,15 +1,18 @@
-name: Build
+name: Release
 on:
   push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
 
 jobs:
-  build:
+  release:
     permissions:
       contents: write
     strategy:
       fail-fast: false
       matrix:
-        platform: [ubuntu-20.04]
+        platform: [macos-latest, ubuntu-20.04, windows-latest]
     runs-on: ${{ matrix.platform }}
 
     steps:
