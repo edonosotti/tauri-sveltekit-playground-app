@@ -8,7 +8,8 @@ A skeleton multi-platform desktop application built with:
  * [`Svelte-Heros-v2 (Icons)`](https://svelte-heros-v2.codewithshin.com)
 
 Use this application as a playground to learn about portable
-app development with `Tauri`.
+app development with `Tauri`. It was created to complement this
+[article](https://medium.com/rockedscience/portable-desktop-apps-with-tauri-svelte-tailwind-52b806280426).
 
 ## Features
 
