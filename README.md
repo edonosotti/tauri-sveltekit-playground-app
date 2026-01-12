@@ -1,7 +1,14 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/edonosotti/tauri-sveltekit-playground-app/badge)](https://www.codefactor.io/repository/github/edonosotti/tauri-sveltekit-playground-app)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b479b837f6bb417fb70b8b134c714815)](https://app.codacy.com/gh/edonosotti/tauri-sveltekit-playground-app/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=edonosotti_tauri-sveltekit-playground-app&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=edonosotti_tauri-sveltekit-playground-app)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=edonosotti_tauri-sveltekit-playground-app&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=edonosotti_tauri-sveltekit-playground-app)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=edonosotti_tauri-sveltekit-playground-app&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=edonosotti_tauri-sveltekit-playground-app)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=edonosotti_tauri-sveltekit-playground-app&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=edonosotti_tauri-sveltekit-playground-app)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=edonosotti_tauri-sveltekit-playground-app&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=edonosotti_tauri-sveltekit-playground-app)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=edonosotti_tauri-sveltekit-playground-app&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=edonosotti_tauri-sveltekit-playground-app)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=edonosotti_tauri-sveltekit-playground-app&metric=bugs)](https://sonarcloud.io/summary/new_code?id=edonosotti_tauri-sveltekit-playground-app)
 ![GitHub Workflow (release, master)](https://github.com/edonosotti/tauri-sveltekit-playground-app/actions/workflows/release.yml/badge.svg?branch=master)
 ![GitHub Workflow (build, master)](https://github.com/edonosotti/tauri-sveltekit-playground-app/actions/workflows/build.yml/badge.svg?branch=master)
-[![Codebeat (master)](https://codebeat.co/badges/b0a6f075-c9e5-4ef2-8ab6-61e3cad007db)](https://codebeat.co/projects/github-com-edonosotti-tauri-sveltekit-playground-app-master)
-[![Code Climate](https://api.codeclimate.com/v1/badges/e01bf36c6a334f9f4f06/maintainability)](https://codeclimate.com/github/edonosotti/tauri-sveltekit-playground-app/maintainability)
 
 # Tauri + SvelteKit + Flowbite UI Kit playground app
 
@@ -126,3 +133,5 @@ of the independent software development:
  * https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13410-Cyber-resilience-act-new-cybersecurity-rules-for-digital-products-and-ancillary-services/F3376627_en
  * https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/
  * https://hackaday.com/2023/04/21/the-cyber-resilience-act-threatens-open-source/
+
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=edonosotti_tauri-sveltekit-playground-app)
