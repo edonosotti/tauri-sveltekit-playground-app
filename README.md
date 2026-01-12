@@ -1,5 +1,6 @@
 ![GitHub Workflow (release, master)](https://github.com/edonosotti/tauri-sveltekit-playground-app/actions/workflows/release.yml/badge.svg?branch=master)
 ![GitHub Workflow (build, master)](https://github.com/edonosotti/tauri-sveltekit-playground-app/actions/workflows/build.yml/badge.svg?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98432df9ef91415d8ef07ee5a8e351a6)](https://app.codacy.com/gh/edonosotti/tauri-sveltekit-playground-app?utm_source=github.com&utm_medium=referral&utm_content=edonosotti/tauri-sveltekit-playground-app&utm_campaign=Badge_Grade)
 [![Codebeat (master)](https://codebeat.co/badges/b0a6f075-c9e5-4ef2-8ab6-61e3cad007db)](https://codebeat.co/projects/github-com-edonosotti-tauri-sveltekit-playground-app-master)
 [![Code Climate](https://api.codeclimate.com/v1/badges/e01bf36c6a334f9f4f06/maintainability)](https://codeclimate.com/github/edonosotti/tauri-sveltekit-playground-app/maintainability)
 
